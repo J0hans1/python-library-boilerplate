@@ -13,7 +13,7 @@ Your wheel file is stored in the “dist” folder that is now created. You can 
 Once you have installed your Python library, you can import it using:
 
 1. ```import mypythonlib```
-2. ````from mypythonlib import myfunctions```
+2. ```from mypythonlib import myfunctions```
 
 ## Credits
 
