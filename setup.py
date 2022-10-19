@@ -1,10 +1,10 @@
 from setuptools import find_packages, setup
 setup(
-    name='markusLib',
-    packages=find_packages(include=['markusLib']),
+    name='library',
+    packages=find_packages(include=['library']),
     version='0.1.0',
     description='My first Python library',
-    author='Markus A. R. Johansen',
+    author='Me',
     license='MIT',
     install_requires=[],
     setup_requires=['pytest-runner'],
