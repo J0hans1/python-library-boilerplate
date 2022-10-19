@@ -1,0 +1,8 @@
+setup.py
+markusLib/__init__.py
+markusLib/myAlgos.py
+markusLib.egg-info/PKG-INFO
+markusLib.egg-info/SOURCES.txt
+markusLib.egg-info/dependency_links.txt
+markusLib.egg-info/top_level.txt
+test/test_myAlgos.py
