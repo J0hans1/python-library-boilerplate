@@ -9,4 +9,10 @@ Your wheel file is stored in the “dist” folder that is now created. You can 
 Once you have installed your Python library, you can import it using:
 
 ```import mypythonlib```
+
 ````from mypythonlib import myfunctions```
+
+## Credits
+Credit is given where credit is due!
+The boilplate was written by following the tutorial at: https://medium.com/analytics-vidhya/how-to-create-a-python-library-7d5aea80cc3f
+The tutorial was written by Kai Eisinga
